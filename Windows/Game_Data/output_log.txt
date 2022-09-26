@@ -1,0 +1,204 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e82)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\DOTween.dll (this message is harmless)
+Loading E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\DOTween43.dll (this message is harmless)
+Loading E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\DOTween46.dll (this message is harmless)
+Loading E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\DOTween50.dll (this message is harmless)
+Loading E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.433 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 3440x1440 50Hz; virtual: 3440x1440 at 0,0
+<RI> Initialized touch support.
+Platform assembly: E:\Unity Projects\Familiar Gamejam 5\Windows\Game_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4784 -> priority: 1 
+  Thread -> id: 10d8 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.015000 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.129500 ms (FindLiveObjects: 0.007600 ms CreateObjectMapping: 0.005800 ms MarkObjects: 0.106900 ms  DeleteObjects: 0.009000 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.901700 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 451.
+Total: 0.227700 ms (FindLiveObjects: 0.010900 ms CreateObjectMapping: 0.009400 ms MarkObjects: 0.193200 ms  DeleteObjects: 0.013900 ms)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ERROR: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ERROR: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ERROR: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.979100 ms
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 0.382600 ms (FindLiveObjects: 0.018600 ms CreateObjectMapping: 0.016200 ms MarkObjects: 0.248900 ms  DeleteObjects: 0.098000 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.254600 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 451.
+Total: 0.218800 ms (FindLiveObjects: 0.009800 ms CreateObjectMapping: 0.009400 ms MarkObjects: 0.188700 ms  DeleteObjects: 0.010700 ms)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ERROR: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ERROR: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ERROR: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ERROR: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ERROR: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ERROR: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
